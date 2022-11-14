@@ -1,0 +1,87 @@
+.buton{
+
+text-align: right;
+margin-right: 5%;
+font-size: 30;
+text-decoration: none;
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+section{
+
+padding: 68;
+display: flex;
+margin-top: 125;
+
+
+
+}
+body{
+
+    
+ background-color: rgb(216, 106, 55);
+
+
+}
+
+
+.sinopsis{
+
+
+  padding: 30;
+  font-size: 19;
+  color: rgb(10, 10, 10);
+  justify-content: right;
+}
+
+h1{
+
+font-size: 45;
+color: rgb(136, 66, 0);
+font-size: 56;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin:  60;
+background-color: rgb(235, 235, 243);
+}
+
+h2{
+
+text-align: left;
+font-size: 40;
+margin: 50;
+color: rgb(50, 100, 50);
+background-color: rgb(199, 183, 183);
+
+}
+
+
+h4{
+
+text-align: center;
+color: rgb(255, 255, 255);
+}
+
+.contacto{
+
+    gap: 50px;
+    justify-content: center;
+    display: flex;
+    margin: 67;
+    
+}
+
+
+.buscar{
+
+
+ text-align: left ;
+border-radius: 20px;
+ padding: 7 59;
+color: black;
+outline: none;
+
+width: 220;
+}
+

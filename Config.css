@@ -1,0 +1,66 @@
+
+
+
+
+
+h1{
+
+     
+    color: rgb(165, 91, 42);
+    text-align: center;
+    padding: 250px;
+   font-stretch: extra-condensed;
+    }
+
+   
+    
+    body{
+        margin: 0;
+        padding: 0;
+        background: url(   Imagenes/57395-cine.jpg    );   
+        background-size: cover;
+        background-position: center;
+        font-family: sans-serif;
+
+      
+    }
+
+    .menu{
+       font-size: 18;
+       justify-content: center;
+        display: flex;
+        list-style: none;
+        gap: 80px;      
+        color: rgb(255, 217, 0);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       text-decoration: none;
+
+
+    }
+
+   .redes{
+
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    padding: 100px;
+    text-decoration: none;
+
+   }
+
+ 
+   
+
+  
+    
+   
+   
+
+
+
+
+    
+   
+
+
+
